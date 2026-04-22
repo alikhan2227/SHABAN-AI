@@ -32,14 +32,13 @@
     <img src="https://img.shields.io/github/followers/botkeeda?style=flat&color=0a0a0a&logo=github&logoColor=d4af37&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/botkeeda/SHABAN-AI?style=flat&color=2a2a2a&logo=git&logoColor=d4af37&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/botkeeda/SHABAN-AI?style=flat&color=1a1a1a&logo=database&logoColor=d4af37&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/botkeeda/SHABAN-AI?style=flat&color=d4af37&logo=npm&logoColor=black&label=Version" alt="Package Version" />
   </p>
   
 </div>
 
 ---
 
-> **Deploy New Version `V-5`**  
+> **Deploy New Version `V.5`**  
 
 ---
 
