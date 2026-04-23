@@ -1,12 +1,12 @@
 {
   "name": "SHABAN-MD",
   "version": "V.5",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR SHABAN",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-AI",
+    "stop": "pm2 stop SHABAN-AI",
+    "restart": "pm2 restart SHABAN-AI"
   },
   "keywords": [
     "shaban-md",
