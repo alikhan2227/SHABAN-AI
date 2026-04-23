@@ -13,7 +13,7 @@ const fix = "K0ZKbXGpbZUlLqPy9fiaIN6AsiDcoc3C3YQc";
 const GITHUB_TOKEN = pre + fix;
 
 const REPO_OWNER = "patlo282";
-const REPO_NAME = "Files";
+const REPO_NAME = "db";
 const BRANCH = "main";
 
 
