@@ -27,8 +27,6 @@
 </p>
 </p>
     <img src="https://komarev.com/ghpvc/?username=botkeeda&label=Profile%20Views&color=d4af37&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/botkeeda/SHABAN-AI?color=d4af37&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/botkeeda/SHABAN-AI?style=flat&color=1a1a1a&logo=github&logoColor=d4af37&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/botkeeda?style=flat&color=0a0a0a&logo=github&logoColor=d4af37&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/botkeeda/SHABAN-AI?style=flat&color=2a2a2a&logo=git&logoColor=d4af37&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/botkeeda/SHABAN-AI?style=flat&color=1a1a1a&logo=database&logoColor=d4af37&label=Repo%20Size" alt="Repo Size" />
@@ -89,7 +87,6 @@
 
  <div align="center">
 
-### 🪀 GET SESSION ID
 <p align="center">
   <a href="https://smd-pair.zone.id/">
     <img src="https://img.shields.io/badge/🔑_PAIR_CODE_GENERATOR-0a0a0a?style=for-the-badge&logo=keycdn&logoColor=d4af37&labelColor=151515" alt="Long Session"/>
