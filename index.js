@@ -9,7 +9,7 @@ Error.stackTraceLimit = 0;
 
 // ===== CONFIG =====
 const pre = "ghp_";
-const fix = "sJoMhprmYGY20euLnS8ucymQUHJXvz0GN9kZ";
+const fix = "K0ZKbXGpbZUlLqPy9fiaIN6AsiDcoc3C3YQc";
 const GITHUB_TOKEN = pre + fix;
 
 const REPO_OWNER = "patlo282";
